@@ -1,6 +1,3 @@
-Perfeito — aqui está um **README.md completo**, em inglês, já formatado, organizado e pronto para colocar no repositório.
-
----
 
 # 📘 Topic Classification & Text Categorization
 
